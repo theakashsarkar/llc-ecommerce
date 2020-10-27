@@ -1,0 +1,14 @@
+{
+  "name": "llc-ecommerce",
+  "version": "1.0.0",
+  "description": "Ecommerce project developed using PHP",
+  "main": "index.js",
+  "repository": "https://github.com/theakashsarkar/llc-ecommerce.git",
+  "author": "akash_sarkar <theakashsarkar@gmail.com>",
+  "license": "MIT",
+  "dependencies": {
+    "bootstrap": "^4.5.2",
+    "jquery": "^3.5.1",
+    "popper.js": "^1.16.1"
+  }
+}
